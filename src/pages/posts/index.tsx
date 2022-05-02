@@ -7,7 +7,7 @@ import { GetStaticProps } from "next";
 import styles from './styles.module.scss';
 import { createClient } from "../../services/prismic";
 
-type Post = {
+export type Post = {
   slug: string;
   title: string;
   excerpt: string;
