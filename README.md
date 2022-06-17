@@ -76,10 +76,10 @@ $ yarn dev
 ## :framed_picture: Imagens ##
 
 <h1 align="center">
-    <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-02.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
-    <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
+    <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-01.png?raw=true" width = "500px" />
+    <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-02.png?raw=true" width = "500px" />
+    <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-03.png?raw=true" width = "500px" />
+    <img alt = "Web app" src = ".https://github.com/khalleb/ignews/blob/main/.github/image-04.png?raw=true" width = "500px" />
 </h1>
 
  você vai me encontrar em qualquer uma das redes sociais abaixo:
