@@ -79,7 +79,7 @@ $ yarn dev
     <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-01.png?raw=true" width = "500px" />
     <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-02.png?raw=true" width = "500px" />
     <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-03.png?raw=true" width = "500px" />
-    <img alt = "Web app" src = ".https://github.com/khalleb/ignews/blob/main/.github/image-04.png?raw=true" width = "500px" />
+    <img alt = "Web app" src = "https://github.com/khalleb/ignews/blob/main/.github/image-04.png?raw=true" width = "500px" />
 </h1>
 
  você vai me encontrar em qualquer uma das redes sociais abaixo:
